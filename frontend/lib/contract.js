@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 
 export const contractAddress =
-  "0x0689A2513cF4732835972d1A51caCDA58949Ec23";
+  "0xFA1d49bB3Cf51Ffc316f499D2aE9E985bB86A078";
 
 export const abi = [
   "function createBattle() payable",

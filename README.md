@@ -12,7 +12,7 @@ Frontend:
 https://stakebattle.vercel.app/
 
 Smart Contract Address:  
-0xC2b88E7358a931f4A9B45a784d5Ec29CDA7048eA
+0xFA1d49bB3Cf51Ffc316f499D2aE9E985bB86A078
 
 Network:  
 OP Sepolia Testnet
